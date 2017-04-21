@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/var/fpwork1/xiangfei'
+let g:netrw_dirhist_2='/var/fpwork1/xiangfei/knife_DNH0.0_ENB_94170325_23019'
+let g:netrw_dirhist_3='/var/fpwork1/xiangfei/knife_DNH0.0_ENB_94170325_23019/C_Platform/CCS_RT'
+let g:netrw_dirhist_4='/home/xiangfei/github/Libevent'
